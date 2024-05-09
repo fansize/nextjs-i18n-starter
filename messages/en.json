@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "title": "Home",
+    "description": "This is the home page.",
+    "navigateToAbout": "Navigate to about",
+    "subtitle": "This is a subtitle",
+    "alert": "Alert message",
+    "about": "About"
+  },
+  "About": {
+    "title": "About",
+    "description": "This is the about page."
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}"
+  }
+}
